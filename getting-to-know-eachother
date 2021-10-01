@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+ 
+<title>Getting to Know Eachother</title>
+    <h1><center>Megan Donnelly</center></h1>
+    <center><img src="img_7159.jpg" width="200" height="300" alt="Zion Canyon Photo"></center>     
+    <h2><center><i>Megs</i></center></h2>
+    <center><a href="meganldonnelly@lewisu.edu;">meganldonnelly@lewisu.edu</a></h3></center>
+
+    <body style="background-color: lightsteelblue;"></body>
+
+   
+    <body><center>
+        <h3><center>
+           Introduction
+        </center></h3>
+        <p> Hi! My name is Megan, although I usually go by Meg or Megs. I have 4 siblings. Two younger sisters, a younger brother and an older brother. I'm really close with all of them. We all love to joke that we were "born to be in a horror movie" as we literally live on Elm Street, on a dead end with no streetlights, next to the woods. This inspired us to make many short films and movies as kids, something we still enjoy doing today. We have had many pets come through, everything from birds, to rabits, lizards, etc. and at the moment we have a gecko named Houdini, and a chocolate lab named Guinness. " </p>
+        <p>My current major is Aviation Administration, and Im pursuing a minor in Russian. I really enjoy learning the language. My dad, as well as many family members and close friends, is a pilot, and he got me hooked on aviation at a young age. He would take my siblings and I up for flights around the city, and every year we would camp at Osh Kosh for the festival. Im currently pursuing my Private License.</p>
+    </center></body>
+    
+    <body><center>
+        <h4><center>
+            My Favorite Hobby
+        </center></h4>
+        <p>My favorite hobby is traveling, specifically road-tripping and everything that comes with them. I love going on long roadtrips and camping the entire time. Over the summer, my best friend and I saved up a ton of money and took an old van on a 3 week roadtrip out to California and up though Oregon, and then came back through the Northwest. We camped the whole trip, and it was incredible. We slept under the stars, visited 9 National Parks, hiked miles and miles, rock climbed, rafted, rode horses, and just generally enjoyed the wilderness. It was also a really great opportunity to photograph wildlife and the different landscapes. We are currently planning camping trips for St. Thomas VI, Juneau, AK, and we are planning our next big roadtrip for next June, where we plan on following the Rockies all the way up to Jasper Canada. When I've retired from aviation, I would love to work in the National Parks, my two preffered being Yellowstone or Denali, or to work generally in the preservation field.</p>
+    </center></body>
+
+    <body>
+        <h4><center>
+            What I Hope to Learn in this Course
+        </center></h4>
+        <p>Some of the topics in this class that I am most excited to learn are; </p>
+        <ul>
+        <ul style="list-style-type:square;">
+            <li>Artificial Intelligence, for no other particular reason besides the fact that its such an interesting topic to dive in to, and Im so excited to see whats in store for the future of AI, as well as to learn about what its capable of now. </li>
+            <li>Security, because I would really like to learn how to protect my data better. </li>
+            <li>Interactive Websites, because Im actually having a lot of fun with HTML, and Im excited for Javascript and being able to learn how to make sites that users can actually interact with.</li>
+        </ul>
+    </body>
+
+    <body>
+        <h5><center>
+        <h5 style="font-size: 140%;">
+            Greatest Innovations
+        </center></h5>
+        <p>I believe that the three greatest innovations in computing history are;</p>
+        <ul>
+        <ul style="list-style-type:square;">
+             <li>The First Electronic Computer, which was created by John Vincent Atanasoff & Clifford Berryin 1942. The called it the ABC, or Atanasoff-Berry Computer, and it was used to find solutions for simultaneous linear equations. It was the first computer to ever use binary rather than mechanical to represent data and electronic switches. </li>
+                <a href="https://theconversation.com/what-was-the-first-computer-122164"> The First Electronic pComputer</a>
+             <li>The First Commercial Desktop Computer, called the Programma 101, which was invented in 1965 by Pier Giorgio Perotto. Programma 101 was the world’s first commercial PC, and it could perform addition, subtraction, division, muliplication, square root, absolute value, and fractions. </li>
+                <a href="https://www.sacatech.com/2019/08/15/the-programma-101-the-first-personal-computer/"> Programma 101</a>
+            <li>The First Touch Screen, which was invented in 1965 by Eric. A Johnson, and was eventually picked up by air traffic controllers. It was called a capacitative touchscreen panel, and it could only register a single point of contact at a time. </li>
+                <a href="https://www.thoughtco.com/who-invented-touch-screen-technology-1992535"> The First Touch Screen</a>
+        </ul>
+    </body>
+
+    <body><center>
+        <h6><center>
+        <h6 style="font-size: 170%;">
+            Fun Fact
+        </center></h6>
+        <p>Fun fact; I actually flew a plane before I ever drove a car. I was genuinly terrified of learning to drive at first, because as I told my dad; "there are way more obstacles to dodge down here than up there." Naturally, he and my mom found this hilarious, and they jokingly took me to a cemetery to drive for the first time because "well, atleast you wont hit anybody living." Today, now that I am completely comfortable and confident driving, I find it hilarious as well. My poor drivers ed instructor though. He was a trooper. </p>
+    </center></body>
